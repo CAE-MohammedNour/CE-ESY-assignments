@@ -1,0 +1,7 @@
+Info: Output directory 'C:\Users\alrhal\Documents\demo_session_1\Lab_assignment1' created.
+Plotted to 'C:\Users\alrhal\Documents\demo_session_1\Lab_assignment1\demo_session_1.plt'.
+Info: Done.
+Plotted to 'C:\Users\alrhal\Documents\demo_session_1\Lab_assignment1\demo_session_1.plt'.
+Info: Done.
+Info: Done.
+Info: Done.
